@@ -1,0 +1,10 @@
+myenv/
+.vscode/
+.DS_Store
+.env
+scratch.py
+.venv/
+data/
+dataset_with_embeddings_2k.csv
+dataset_with_embeddings.csv
+dataset.csv
